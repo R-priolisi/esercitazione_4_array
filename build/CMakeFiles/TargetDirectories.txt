@@ -1,5 +1,0 @@
-/home/appuser/Data/Esercitazione_4_array/Exercise2_array/build/CMakeFiles/rateOfReturn.dir
-/home/appuser/Data/Esercitazione_4_array/Exercise2_array/build/CMakeFiles/edit_cache.dir
-/home/appuser/Data/Esercitazione_4_array/Exercise2_array/build/CMakeFiles/rebuild_cache.dir
-/home/appuser/Data/Esercitazione_4_array/Exercise2_array/build/src/CMakeFiles/edit_cache.dir
-/home/appuser/Data/Esercitazione_4_array/Exercise2_array/build/src/CMakeFiles/rebuild_cache.dir
